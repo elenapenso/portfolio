@@ -479,7 +479,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 
 .label-danger[href]:hover,
 .label-danger[href]:focus {
-  background-color: #c9302c;
+  background-color: #9e1b34;
 }
 
 .label-success {
@@ -599,7 +599,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   background-color: #2c3e50;
 }
 .pomengrate > span{
-  background-color: #921b34;
+  background-color: #c0392b;
 }
 .asbestos > span{
   background-color: #7f8c8d;
