@@ -69,7 +69,7 @@ dt {font-family:Futura, "Century Gothic", AppleGothic, sans-serif}
 /* HYPERLINKS */
 a { 
   text-decoration: none;
-  color: #E74C3C;
+  color: #9E1B34;
   -webkit-transition: color 0.1s linear, border 0.1s linear, opacity 0.1s linear, background-color 0.1s linear;
   -moz-transition: color 0.1s linear, border 0.1s linear, opacity 0.1s linear, background-color 0.1s linear;
   -ms-transition: color 0.1s linear, border 0.1s linear, opacity 0.1s linear, background-color 0.1s linear;
@@ -91,8 +91,8 @@ ins, mark {text-decoration: none}
 mark {background: #c47529}
 ins {background: #d49855}
 del {text-decoration: line-through}
-::-moz-selection {background: #E74C3C; color: #fff; text-shadow: none} /* selected text */
-::selection {background: #E74C3C; color: #fff; text-shadow: none} /* selected text */
+::-moz-selection {background: #9E1B34; color: #fff; text-shadow: none} /* selected text */
+::selection {background: #9E1B34; color: #fff; text-shadow: none} /* selected text */
 
 /* OTHERS */
 strong, b, dt { font-weight: bold}
@@ -237,7 +237,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 
 .tab a.active {
   padding-top: 10px;
-  color: #e74c3c;
+  color: #9E1B34;
 }
 .tab a i{
   font-size: 16px;
@@ -418,7 +418,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   display:inline-block;
   margin: 0 10px 10px 0;    
   padding: 14px 20px;  
-  background: #E74C3C;
+  background: #9E1B34;
   color: #fff;
   font-weight: bold;
   font-size: 13px;
