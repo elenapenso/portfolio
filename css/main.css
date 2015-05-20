@@ -474,12 +474,12 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 
 .label-danger {
-  background-color: #d9534f;
+  background-color: #9e1b34;
 }
 
 .label-danger[href]:hover,
 .label-danger[href]:focus {
-  background-color: #9e1b34;
+  background-color: #c9302c;
 }
 
 .label-success {
